@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qinxk.github.io/</id>
     <title>Gridea</title>
-    <updated>2020-02-20T07:48:18.654Z</updated>
+    <updated>2020-02-20T10:11:01.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qinxk.github.io/"/>
     <link rel="self" href="https://qinxk.github.io/atom.xml"/>
@@ -10,6 +10,119 @@
     <logo>https://qinxk.github.io/images/avatar.png</logo>
     <icon>https://qinxk.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[BigData]]></title>
+        <id>https://qinxk.github.io/post/bigdata/</id>
+        <link href="https://qinxk.github.io/post/bigdata/">
+        </link>
+        <updated>2020-02-20T10:10:39.000Z</updated>
+        <content type="html"><![CDATA[<p>大数据--计算引擎分类<br>
+https://blog.csdn.net/u010711294/article/details/73799936</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python]]></title>
+        <id>https://qinxk.github.io/post/python/</id>
+        <link href="https://qinxk.github.io/post/python/">
+        </link>
+        <updated>2020-02-20T10:10:05.000Z</updated>
+        <content type="html"><![CDATA[<p>Python爬取网站数据<br>
+https://blog.csdn.net/sxyyu1/article/details/81366526</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[perl]]></title>
+        <id>https://qinxk.github.io/post/perl/</id>
+        <link href="https://qinxk.github.io/post/perl/">
+        </link>
+        <updated>2020-02-20T10:09:19.000Z</updated>
+        <content type="html"><![CDATA[<p>perl 快速入门<br>
+https://blog.csdn.net/u012554768/article/details/40537567</p>
+<p>Perl快速入门<br>
+https://blog.csdn.net/ooaven/article/details/9201379</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[java]]></title>
+        <id>https://qinxk.github.io/post/java/</id>
+        <link href="https://qinxk.github.io/post/java/">
+        </link>
+        <updated>2020-02-20T10:03:19.000Z</updated>
+        <content type="html"><![CDATA[<p>Fiddler抓取APP的HTTP连接<br>
+https://blog.csdn.net/YmangoY/article/details/80579894</p>
+<p>打开eclipse出现Failed to load the JNI shared library “D:\java\jdk\bin...\jre\bin\server\jvm.dll”如何解决？<br>
+https://blog.csdn.net/qq_41264055/article/details/96773005</p>
+<p>java 文件夹拷贝(文件夹里包含文件和文件夹) 代码<br>
+https://blog.csdn.net/he138060/article/details/84184822</p>
+<p>在Java中应用文件锁<br>
+https://blog.csdn.net/qq_35499060/article/details/83116157</p>
+<p>Java文件锁以及并发读写中的应用<br>
+https://blog.csdn.net/paditang/article/details/73087628</p>
+<p>FileLock类实现文件操作的并发访问<br>
+https://blog.csdn.net/zhihang19941024/article/details/74942767</p>
+<p>将控制台的内容输出到文件中<br>
+https://blog.csdn.net/iteye_2179/article/details/81926196</p>
+<p>Eclipse项目怎么导入jar包<br>
+https://blog.csdn.net/q1210237604/article/details/56670997</p>
+<p>各种数据库对应的jar包<br>
+https://blog.csdn.net/huangkai2012/article/details/9407995</p>
+<p>java连接数据库<br>
+https://blog.csdn.net/dao_wolf/article/details/77972679</p>
+<p>比较两个数组的不同 java<br>
+https://blog.csdn.net/LOVE_HopeOne/article/details/83750307</p>
+<p>使用java程序发邮件教程<br>
+https://blog.csdn.net/weixin_39159592/article/details/81837755</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[shell]]></title>
+        <id>https://qinxk.github.io/post/shell/</id>
+        <link href="https://qinxk.github.io/post/shell/">
+        </link>
+        <updated>2020-02-20T09:55:19.000Z</updated>
+        <content type="html"><![CDATA[<p>Shell 字符串截取<br>
+https://blog.csdn.net/Coxhuang/article/details/103645084</p>
+<p>linux shell 获取某个时间段内的文件<br>
+https://blog.csdn.net/u013654125/article/details/80066914</p>
+<p>linux删除文件，或者保留某些文件<br>
+https://blog.csdn.net/dulingtingzi/article/details/88247932</p>
+<p>linux shell中sed命令用<br>
+https://blog.csdn.net/weixin_43161620/article/details/87295652</p>
+<p>shell中awk的用法<br>
+https://blog.csdn.net/qq_34070179/article/details/85016016</p>
+<p>shell中cut用法简介<br>
+https://blog.csdn.net/guicl0219/article/details/7241529</p>
+<p>ls 如何给文件名中数字排序<br>
+https://blog.csdn.net/yilovexing/article/details/79013692</p>
+<p>使用tar命令打包文件时，如何将符号链接文件替换为源文件<br>
+https://blog.csdn.net/u011627161/article/details/51035161</p>
+<p>Shell自删除脚本<br>
+https://blog.csdn.net/jinsuyan123/article/details/54706229</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[oracle]]></title>
+        <id>https://qinxk.github.io/post/oracle/</id>
+        <link href="https://qinxk.github.io/post/oracle/">
+        </link>
+        <updated>2020-02-20T09:50:04.000Z</updated>
+        <content type="html"><![CDATA[<p>oracle误删除数据，恢复删除的数据，删除数据后提交恢复<br>
+https://blog.csdn.net/leandzgc/article/details/17144359</p>
+<p>Oracle:SQL语句--对表的操作—— 删除字段(即删除列)<br>
+https://blog.csdn.net/u014455929/article/details/52374280</p>
+<p>Oracel创建用户、创建表空间、授权、建表的完整过程<br>
+https://blog.csdn.net/cj_0513/article/details/80947482</p>
+<p>Oracle建表并指定主键自增<br>
+https://blog.csdn.net/qq_38668663/article/details/82968004<br>
+https://blog.csdn.net/zfl1269420851/article/details/82255307</p>
+<p>Oracle建表、索引、主键<br>
+https://blog.csdn.net/singit/article/details/71188898</p>
+<p>oracle建表并主键自增<br>
+https://blog.csdn.net/SONGCHUNHONG/article/details/78790762</p>
+<p>怎样将excel的数据导入oracle<br>
+https://blog.csdn.net/u013796074/article/details/77724457</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[one day]]></title>
         <id>https://qinxk.github.io/post/one-day/</id>
